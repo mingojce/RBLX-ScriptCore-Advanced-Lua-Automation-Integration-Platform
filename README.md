@@ -10,16 +10,11 @@
 
 **Modular Lua sandbox and automation engine for Roblox Studio developers**
 
-[🌐 Website](https://yourname.github.io/rblx_scriptcore) | [📘 Docs](docs/README.md) | [💬 Community](https://discord.gg/yourdiscord)
+[🌐 Download](https://yourname.github.io/rblx_scriptcore) | [📘 Docs](docs/README.md) | [💬 Community](https://discord.gg/yourdiscord)
 
 </div>
 
 ---
-
-## 🔖 GitHub Topics / Tags
-`roblox`  `roblox‑studio`  `lua`  `sandbox`  `automation`  `sdk`  `developer‑tool`  `script‑engine`  `plugin`  `education`
-
-*(Добавь эти слова как "Topics" в панели Settings → General → Topics.)*
 
 ---
 
