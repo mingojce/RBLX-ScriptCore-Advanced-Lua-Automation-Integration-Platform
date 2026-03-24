@@ -43,3 +43,40 @@ Built for developers and educators looking to optimize Roblox St
 <meta name="twitter:title" content="RBLX ScriptCore — Lua Automation Toolkit">
 <meta name="twitter:description" content="Safe Lua sandbox and automation SDK for Roblox Studio.">
 <meta name="twitter:image" content="assets/cover.png">
+🧩 Core Features
+🔒 Secure Lua Runtime powered by Lupa (LuaJIT)
+🌐 REST API Interface for remote Lua tests (POST /execute)
+🧰 Modular Plugin System for custom extensions
+🧾 Advanced Logging and Error Audit
+🎓 Education‑ready Examples for classroom use
+📋 Requirements
+ Component 	 Minimum 	 Recommended 
+ OS 	 Windows / macOS / Linux 	 Latest build 
+ Python 	 3.10 	 3.11 
+ RAM 	 4 GB 	 8 GB 
+ Disk 	 200 MB 	 500 MB 
+🧾 Quick Start
+Bash
+
+git clone https://github.com/yourname/rblx_scriptcore.git
+cd rblx_scriptcore
+pip install -r requirements.txt
+python -m executor.sandbox
+Send test request:
+
+Bash
+
+curl -X POST http://127.0.0.1:5000/execute \
+   -H "Content-Type: application/json" \
+   -d '{"code":"return 2 + 2"}'
+Output:
+
+JSON
+
+{"status":"ok","result":"4"}
+⚙️ Configuration
+ini
+
+SANDBOX_PORT = 5000
+LUA_MEM_LIMIT = 64
+LOG_LEVEL = DEBUG
